@@ -8,10 +8,9 @@
 
 I'm a passionate software engineer specializing in web development and cloud technologies. Currently focusing on building scalable applications and exploring new technologies.
 
-- 🔭 I'm currently a concurrent Master Candidate in Human-Centered Data Science (Univ. of Toronto) and Computer Science (Georgia Tech)
-- 🌱 I'm currently learning **Operating Systems** and **Machine Learning**
-- 👯 I'm looking to collaborate on **Differential Privacy**, responbily aprotect human privacy in data science
-- 💬 Ask me about **Privacy** **Web developement**, **Computer Networks**, **SQL**. **Statistica Analysis**
+- 🔭 I'm currently a concurrent Master Candidate in Human-Centered Data Science (Univ. of Toronto) and Computer Science (Georgia Tech)🌱 
+- 👯 I'm looking to collaborate on **Network Security**, **User privacy** and **IAM Security** responbily aprotect human privacy in data science
+- 💬 Ask me about **Privacy** **Web developement**, **Computer Networks**, **SQL**. **NLP** **ML**
 - 📫 How to reach me: [ypeng.yvonne@gmail.com]
 
 ## 🛠️ Technical Skills
