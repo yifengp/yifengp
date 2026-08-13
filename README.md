@@ -1,138 +1,154 @@
-# Hi there! I'm Yvonne Peng 👋 
+# Hi, I'm Yvonne Peng
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](your-portfolio-url)
+**AI Developer | Technical Program Manager | AI & Data Systems | Security / Data Governance**
 
-## 👨‍💻 About Me
-
-I'm a passionate software engineer specializing in web development and cloud technologies. Currently focusing on building scalable applications and exploring new technologies.
-
-- 🔭 I'm currently a concurrent Master Candidate in Human-Centered Data Science (Univ. of Toronto) and Computer Science (Georgia Tech)🌱 
-- 👯 I'm looking to collaborate on **Network Security**, **User privacy** and **IAM Security** responbily aprotect human privacy in data science
-- 💬 Ask me about **Privacy** **Web developement**, **Computer Networks**, **SQL**. **NLP** **ML**
-- 📫 How to reach me: [ypeng.yvonne@gmail.com]
-
-## 🛠️ Technical Skills
-
-### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+I build practical AI and data systems that help people solve messy operational problems. My work sits between hands-on engineering and cross-functional execution: AI agents, retrieval workflows, ETL pipelines, automation, privacy/security governance, and user-facing tools.
 
-### Network Engineering & SDN
-![OpenFlow](https://img.shields.io/badge/OpenFlow-00629B?style=for-the-badge&logo=opendaylight&logoColor=white)
-![Wireshark/TShark](https://img.shields.io/badge/Wireshark/TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Mininet](https://img.shields.io/badge/Mininet-32B232?style=for-the-badge&logo=networkmanager&logoColor=white)
+I am interested in roles where I can contribute as a **Technical Program Manager** or an **AI/data-focused engineer**, especially on teams working on reliable AI systems, data platforms, infrastructure, Trust & Safety, or enterprise automation.
 
-### Virtualization & Tools
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
-
-## 🚀 Featured Projects
-
-### Project 1: Machine Learning - Insurance Pricing and Client Segmentation 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Role**: Data Analyst / 3-person team
-
-**Project Overview**:
-- oAdvanced machine learning solution for optimizing insurance pricing and client segmentation
-- Processed and analyzed dataset of 50,000 client records to predict insurance premiums with 84% accuracy
-- Built interactive visualization dashboards for real-time monitoring and analysis
-
-**My Contributions**:
-- Implemented end-to-end ML pipeline including data preprocessing, PCA dimensionality reduction, and SVM model development
-- Performed feature engineering and hyperparameter tuning using grid search and cross-validation
-
-
-### Project 2: Machine Learning - Customer Characteristic Clustering for Targeted Marketing
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Project Overview:
-
-Data-driven customer segmentation system for targeted marketing campaigns
-Developed comparative analysis of clustering algorithms for optimal customer grouping
-Identified three distinct customer segments with actionable marketing insights
-
-My Contributions:
-
-Built data pipeline using Python and SQL for preprocessing and feature engineering
-Implemented and compared Agglomerative and K-means clustering algorithms
-Created visualization dashboard highlighting key customer segments and behavioral patterns
-
-
-### Project 3: Machine Learning – Predictive Analytics for Insurance Claims Pattern Recognition
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Project Overview:
-
-Predictive analytics system for insurance claims pattern recognition
-Built regression models to analyze demographic and behavioral factors affecting claim amounts
-Developed data-driven strategies for insurance companies based on customer segmentation
-
-My Contributions:
-
-Developed multiple linear regression model using R for claims pattern analysis
-Performed comprehensive data cleaning and statistical analysis
-Created interactive dashboards for visualizing customer segments and claim patterns
-
-### Project 4: Database Design and Frontend Interaction (Private Repository)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-•	Developed and optimized a **PostgreSQL** database for a small vehicle business, including **ER mapping**, **schema design** to handle inventory, transactions, and customer data efficiently
-
-•	Developed and integrated **APIs** to facilitate communication between the frontend and backend systems, enabling **automated data retrieval, updates, and synchronization** across the application, enhancing workflow efficiency
-
-•	Built an interactive frontend interface using HTML and JavaScript, focusing on responsive design
-
-•	Engineered a **scalable backend system** by connecting the PostgreSQL database with the Flask framework, ensuring efficient data handling, secure storage, and consistent performance for complex queries and future system upgrades
-
-
-## 📈 GitHub Activity Graph
-[![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+What motivates me most is shipping useful work: building things that reduce friction, clarify decisions, and make complex systems easier to operate.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square&label=Profile+Views"/>
-</div>
-<!--
-**yifengp/yifengp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Build
 
-Here are some ideas to get you started:
+- AI agents and retrieval-based workflows for planning, recommendation, and decision support
+- Data pipelines, validation checks, reporting automation, and operational dashboards
+- Governance-aware systems involving privacy, access control, data minimization, and auditability
+- Lightweight tools that solve real workflow problems and can be shipped to users
+- Cross-functional programs that connect engineering, product, legal, privacy, security, and operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### [NavigateU: NLP Multi-Agent Course Planning Robot](https://github.com/ece1786-2025/NavigateU)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Vector_Search-6A5ACD?style=flat-square)
+
+NavigateU is a multi-agent planning system that turns a target role or skill interest into an actionable academic and career roadmap. It recommends in-school courses, identifies skill gaps, builds semester plans, checks enrollment logistics, and suggests open resources for uncovered skills.
+
+**What it demonstrates**
+
+- Multi-agent workflow design for career-path and skill-path planning
+- Skill-gap analysis using normalized canonical skill mappings
+- Course recommendation pipeline with hybrid scoring and requirement expansion
+- Retrieval layer using Pinecone with local JSONL fallback
+- Deterministic semester planning and enrollment logistics logic
+- LLM-backed reasoning layer that converts structured outputs into readable reports
+- Gradio UI for interactive roadmap generation, refinement, and PDF export
+
+**Architecture**
+
+```text
+User Input
+   -> Analyzer
+   -> Skill Gap Agent
+   -> Course Recommender
+   -> Semester Plan + Logistics Agent
+   -> Open Resources Agent
+   -> Reasoning / Report Generator
+   -> Interactive Gradio UI
+```
+
+**Tech:** `Python` `Gradio` `OpenAI` `Pinecone` `Pydantic` `NumPy` `Pandas` `JSONL` `Vector Search` `RAG` `NLP` `Multi-Agent Workflow`
+
+---
+
+### [Billable Beast: Chrome Extension](https://chromewebstore.google.com/detail/billable-beast/lodagaogbkihfcpcbnehpoeeiahheebf)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Published-34A853?style=flat-square&logo=googlechrome&logoColor=white)
+![Productivity](https://img.shields.io/badge/Productivity-Tool-FFB000?style=flat-square)
+
+A shipped Chrome extension for tracking billable time and improving day-to-day workflow visibility. This project reflects my interest in building small, practical tools that solve a clear user problem and reach an actual production surface.
+
+**What it demonstrates**
+
+- Chrome extension development and product shipping
+- Timer and workflow-state management
+- User-facing UI design for repeated daily use
+- Lightweight productivity tooling
+- Iteration from personal workflow pain point to published extension
+
+**Tech:** `JavaScript` `Chrome Extension` `HTML` `CSS` `Browser APIs` `Product Design` `Workflow Automation`
+
+---
+
+## Professional Work Highlights
+
+Some of my strongest work has been in enterprise environments where code and implementation details cannot be public. I keep those examples brief here and use public projects to show how I build.
+
+- Built enterprise AI agent workflows adopted into recurring operations
+- Developed Python / SQL / Databricks ETL pipelines and reporting automation
+- Reduced recurring operational processing from 3 hours to 4 minutes through automation
+- Built ML-driven forecasting and decision-support workflows, including an XGBoost model that reduced storage costs by 31.5%
+- Worked on Trust & Safety / policy-enforcement review involving content safety, age-gate workflows, appeal channels, recommendation surfaces, and sensitive user-data handling
+- Led data governance and privacy/security programs across engineering, legal, product, privacy, security, and operations stakeholders
+- Supported ISO 27001 / 27701 control assessment, evidence collection, remediation tracking, and OneTrust-based workflows
+
+---
+
+## Technical Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI / ML:** AI agents, RAG, embeddings, vector search, XGBoost, NLP, prompt workflows, evaluation  
+**Data:** Python, SQL, SQL Server, PostgreSQL, Databricks, ETL, data validation, reporting automation  
+**Frontend / Tools:** JavaScript, HTML, CSS, Chrome Extension APIs, Gradio  
+**Systems:** Pydantic, Git, Docker, PowerShell, Windows Task Scheduler  
+**Security & Governance:** RBAC, LDAP, GDPR, CCPA, ISO 27001 / 27701, OneTrust, privacy review, data minimization  
+**Program Execution:** TPM, stakeholder alignment, launch readiness, issue tracking, documentation, runbooks, executive communication
+
+---
+
+## What I'm Working Toward
+
+I am building toward work that combines technical depth with program leadership:
+
+- Technical Program Manager roles in AI, data platforms, infrastructure, security, or Trust & Safety
+- AI / data systems engineering roles where building and cross-functional ownership both matter
+- Teams solving ambiguous, high-impact problems with real users, operational complexity, and measurable outcomes
+
+I care about work that ships, helps people, and makes complex systems easier to use and trust.
+
+---
+
+## Contact
+
+- GitHub: [github.com/yifengp](https://github.com/yifengp)
+- Featured project: [NavigateU](https://github.com/ece1786-2025/NavigateU)
+- Email: `ypeng.yvonne@gmail.com`
+- Location: Atlanta, Georgia, US
+- Work authorization: Authorized to work in the US
