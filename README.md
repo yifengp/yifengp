@@ -71,7 +71,7 @@ User Input
 
 ---
 
-### Differentially Private ML Batch Sampling & Privacy Accounting
+### [Differentially Private ML Batch Sampling & Privacy Accounting](https://pps-lab.com/student-blogs/does-it-matter-how-you-pick-your-batches/)
 
 Privacy-preserving machine learning research project studying how mini-batch sampling choices affect the real privacy guarantees of DP-SGD. Compared Poisson subsampling, Shuffle-WOR, and Balls-and-Bins under fixed differential privacy targets, showing that implementation-friendly sampling choices can materially change privacy leakage when privacy accounting assumptions do not match the training pipeline.
 
@@ -91,8 +91,6 @@ Privacy-preserving machine learning research project studying how mini-batch sam
 - Trained CNN and C4-invariant steerable CNN models on MNIST and rotated MNIST to evaluate accuracy, robustness, and privacy cost.
 - Derived lower-bound analysis for augmented Shuffle-WOR sampling and explained why Poisson-based accounting can understate privacy leakage in real ML pipelines.
 - Translated theoretical privacy results into practical guidance for responsible AI/ML systems handling personal or sensitive data.
-
-[Project Blog](https://pps-lab.com/student-blogs/does-it-matter-how-you-pick-your-batches/)
 
 ---
 
