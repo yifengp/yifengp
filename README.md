@@ -71,6 +71,31 @@ User Input
 
 ---
 
+### Differentially Private ML Batch Sampling & Privacy Accounting
+
+Privacy-preserving machine learning research project studying how mini-batch sampling choices affect the real privacy guarantees of DP-SGD. Compared Poisson subsampling, Shuffle-WOR, and Balls-and-Bins under fixed differential privacy targets, showing that implementation-friendly sampling choices can materially change privacy leakage when privacy accounting assumptions do not match the training pipeline.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Differential%20Privacy-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/DP--SGD-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Privacy%20Accounting-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/CNN-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Steerable%20CNN-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML%20Experimentation-F59E0B?style=flat-square" />
+</p>
+
+- Built a unified Python/PyTorch experimental framework for evaluating privacy-utility tradeoffs in DP-SGD.
+- Implemented Privacy Loss Distribution accounting with Google `dp_accounting` to compare noise requirements under fixed `epsilon` and `delta` guarantees.
+- Trained CNN and C4-invariant steerable CNN models on MNIST and rotated MNIST to evaluate accuracy, robustness, and privacy cost.
+- Derived lower-bound analysis for augmented Shuffle-WOR sampling and explained why Poisson-based accounting can understate privacy leakage in real ML pipelines.
+- Translated theoretical privacy results into practical guidance for responsible AI/ML systems handling personal or sensitive data.
+
+[Project Blog](https://pps-lab.com/student-blogs/does-it-matter-how-you-pick-your-batches/)
+
+---
+
 ### [Billable Beast: Chrome Extension](https://chromewebstore.google.com/detail/billable-beast/lodagaogbkihfcpcbnehpoeeiahheebf)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
