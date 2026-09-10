@@ -93,6 +93,7 @@ Privacy-preserving machine learning research project studying how mini-batch sam
 - Translated theoretical privacy results into practical guidance for responsible AI/ML systems handling personal or sensitive data.
 
 **Tech:** `Python` `PyTorch` `Google dp_accounting` `DP-SGD` `Privacy Loss Distribution` `Differential Privacy` `CNN` `C4-Invariant Steerable CNN` `MNIST` `ML Experimentation`
+
 ---
 ### [AI Education Experimentation & Causal Inference](https://colab.research.google.com/drive/1lBxaxv8SjlZ7w4eBBcZ8pYG1OcL2hpXJ) 
 
