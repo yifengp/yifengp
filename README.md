@@ -92,6 +92,28 @@ Privacy-preserving machine learning research project studying how mini-batch sam
 - Derived lower-bound analysis for augmented Shuffle-WOR sampling and explained why Poisson-based accounting can understate privacy leakage in real ML pipelines.
 - Translated theoretical privacy results into practical guidance for responsible AI/ML systems handling personal or sensitive data.
 
+**Tech:** `Python` `PyTorch` `Google dp_accounting` `DP-SGD` `Privacy Loss Distribution` `Differential Privacy` `CNN` `C4-Invariant Steerable CNN` `MNIST` `ML Experimentation`
+---
+### [AI Education Experimentation & Causal Inference](https://colab.research.google.com/drive/1lBxaxv8SjlZ7w4eBBcZ8pYG1OcL2hpXJ) 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DoWhy](https://img.shields.io/badge/DoWhy-Causal_Inference-4B5563?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-Experimentation-2563EB?style=flat-square)
+![Multi-Armed Bandit](https://img.shields.io/badge/Multi--Armed_Bandit-Adaptive_Experimentation-7C3AED?style=flat-square)
+![Causal Inference](https://img.shields.io/badge/Causal_Inference-ATE-0F766E?style=flat-square)
+
+An experimentation project designed to help schools evaluate how extensively personalized AI learning systems should be adopted. The project uses A/B testing, Multi-Armed Bandits, and causal inference to compare AI learning approaches and turn experimental outcomes into evidence-based adoption decisions.
+
+**What it demonstrates**
+
+- Designed an adaptive experiment across 5,000 simulated students and four AI learning variants
+- Applied Multi-Armed Bandit allocation and early stopping to balance exploration and exploitation
+- Built causal models using DAG-based confounder selection, linear regression, and propensity score matching
+- Estimated Average Treatment Effects (ATE) and performed sensitivity analysis for unobserved confounding
+- Compared A/B testing/RCT, MAB, and causal inference approaches for statistical validity, efficiency, and decision-making
+
+**Tech:** `Python` `DoWhy` `A/B Testing` `Multi-Armed Bandits` `Causal Inference` `Linear Regression` `Propensity Score Matching` `DAG` `ATE` `Statistical Analysis`
+
 ---
 
 ### [Billable Beast: Chrome Extension](https://chromewebstore.google.com/detail/billable-beast/lodagaogbkihfcpcbnehpoeeiahheebf)
