@@ -1,6 +1,6 @@
 # Hi, I'm Yvonne Peng
 
-**AI Developer | Technical Program Manager | AI & Data Systems | Security / Data Governance**
+**AI Developer |Software Developer| AI & Data Systems | Security / Data Governance**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,7 +13,7 @@
 
 I build practical AI and data systems that help people solve messy operational problems. My work sits between hands-on engineering and cross-functional execution: AI agents, retrieval workflows, ETL pipelines, automation, privacy/security governance, and user-facing tools.
 
-I am interested in roles where I can contribute as a **Technical Program Manager** or an **AI/data-focused engineer**, especially on teams working on reliable AI systems, data platforms, infrastructure, Trust & Safety, or enterprise automation.
+I am interested in roles where I can contribute as a **AI/data-focused engineer**, especially on teams working on reliable AI systems, data platforms, infrastructure, Trust & Safety, or enterprise automation.
 
 What motivates me most is shipping useful work: building things that reduce friction, clarify decisions, and make complex systems easier to operate.
 
