@@ -173,7 +173,7 @@ Some of my strongest work has been in enterprise environments where code and imp
 **AI / ML:** AI agents, RAG, embeddings, vector search, XGBoost, NLP, prompt workflows, evaluation  
 **Data:** Python, SQL, SQL Server, PostgreSQL, Databricks, ETL, data validation, reporting automation  
 **Frontend / Tools:** JavaScript, HTML, CSS, Chrome Extension APIs, Gradio  
-**Systems:** Pydantic, Git, Docker, PowerShell, Windows Task Scheduler  
+**Systems:** Pydantic, Git, Docker, PowerShell, Windows Task Scheduler, C++
 **Security & Governance:** RBAC, LDAP, GDPR, CCPA, ISO 27001 / 27701, OneTrust, privacy review, data minimization  
 **Program Execution:** TPM, stakeholder alignment, launch readiness, issue tracking, documentation, runbooks, executive communication
 
