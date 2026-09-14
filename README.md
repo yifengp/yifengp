@@ -21,7 +21,8 @@ What motivates me most is shipping useful work: building things that reduce fric
 
 ## What I Build
 
-- AI agents and retrieval-based workflows for planning, recommendation, and decision support
+- AI agents and retrieval-based workflows for planning, recommendation, and decision support in enterprise.
+- Software applications tailored to specific use cases.
 - Data pipelines, validation checks, reporting automation, and operational dashboards
 - Governance-aware systems involving privacy, access control, data minimization, and auditability
 - Lightweight tools that solve real workflow problems and can be shipped to users
